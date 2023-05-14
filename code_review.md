@@ -1,0 +1,3 @@
+# code-review
+<!-- This content will not appear in the rendered Markdown -->
+Code review creates excellent conditions for the exchange of knowledge about the programming language and certain technical dependencies that cannot be written directly into the code, but result from experience. 
