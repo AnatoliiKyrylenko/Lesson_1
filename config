@@ -1,0 +1,6 @@
+[default]
+output = json
+region = eu-west-1
+[backup]
+output = json
+region = eu-central-1
